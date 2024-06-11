@@ -1,0 +1,14 @@
+C:\Users\USER\RiderProjects\StrategiAlgoritma\StrategiAlgoritma\bin\Debug\net8.0\StrategiAlgoritma.exe
+C:\Users\USER\RiderProjects\StrategiAlgoritma\StrategiAlgoritma\bin\Debug\net8.0\StrategiAlgoritma.deps.json
+C:\Users\USER\RiderProjects\StrategiAlgoritma\StrategiAlgoritma\bin\Debug\net8.0\StrategiAlgoritma.runtimeconfig.json
+C:\Users\USER\RiderProjects\StrategiAlgoritma\StrategiAlgoritma\bin\Debug\net8.0\StrategiAlgoritma.dll
+C:\Users\USER\RiderProjects\StrategiAlgoritma\StrategiAlgoritma\bin\Debug\net8.0\StrategiAlgoritma.pdb
+C:\Users\USER\RiderProjects\StrategiAlgoritma\StrategiAlgoritma\obj\Debug\net8.0\StrategiAlgoritma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\RiderProjects\StrategiAlgoritma\StrategiAlgoritma\obj\Debug\net8.0\StrategiAlgoritma.AssemblyInfoInputs.cache
+C:\Users\USER\RiderProjects\StrategiAlgoritma\StrategiAlgoritma\obj\Debug\net8.0\StrategiAlgoritma.AssemblyInfo.cs
+C:\Users\USER\RiderProjects\StrategiAlgoritma\StrategiAlgoritma\obj\Debug\net8.0\StrategiAlgoritma.csproj.CoreCompileInputs.cache
+C:\Users\USER\RiderProjects\StrategiAlgoritma\StrategiAlgoritma\obj\Debug\net8.0\StrategiAlgoritma.dll
+C:\Users\USER\RiderProjects\StrategiAlgoritma\StrategiAlgoritma\obj\Debug\net8.0\refint\StrategiAlgoritma.dll
+C:\Users\USER\RiderProjects\StrategiAlgoritma\StrategiAlgoritma\obj\Debug\net8.0\StrategiAlgoritma.pdb
+C:\Users\USER\RiderProjects\StrategiAlgoritma\StrategiAlgoritma\obj\Debug\net8.0\StrategiAlgoritma.genruntimeconfig.cache
+C:\Users\USER\RiderProjects\StrategiAlgoritma\StrategiAlgoritma\obj\Debug\net8.0\ref\StrategiAlgoritma.dll
